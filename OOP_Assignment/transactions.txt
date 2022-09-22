@@ -1,0 +1,29 @@
+H7396-Successfully transferred 35 at2021-12-14 20:37:36
+H7396-Successfully transferred 100 at2021-12-14 20:37:52
+H7396-Successfully transferred 100 at2021-12-14 20:42:31
+C2536-Successfully Received 100 at2021-12-14 20:42:31
+H7396-Successfully deposited 1000 at2021-12-15 17:52:25
+H7396-Successfully transferred 1000 at2021-12-15 17:52:39
+W4557-Successfully Received 1000 at2021-12-15 17:52:39
+H7396-Successfully deposited 108 at 2021-December-15 18:15:16
+P4936-Successfully deposited 1000 at 2021-December-15 18:23:14
+P4936-Successfully deposited 100 at 2021-December-15 18:32:39
+P4936-Successfully withdrawn 10 at 2021-December-15 18:34:36
+P4936-Successfully withdrawn 10 at 2021-December-15 18:34:40
+C7186-Successfully deposited 1000 at 2021-December-15 21:43:36
+C7186-Successfully transferred 450 at 2021-December-15 21:43:57
+H7396-Successfully Received 450 at2021-12-15 21:43:57
+P4936-Successfully withdrawn 500 at 2021-December-15 22:00:11
+H7396-Successfully deposited 100 at 2021-December-15 22:04:01
+P4936-Successfully withdrawn 470 at 2021-December-15 22:11:29
+C2536-Successfully withdrawn 423 at 2021-December-15 22:13:57
+C7186-Successfully deposited 78 at 2021-December-15 22:17:41
+H7396-Successfully deposited 1000 at 2021-December-16 00:26:12
+H7396-Successfully transferred 885 at 2021-December-16 17:01:08
+P4936-Successfully Received 885 at 2021-12-16 17:01:08
+H7396-Successfully withdrawn 100 at 2021-December-16 22:18:46
+H7396-Successfully withdrawn 1000 at 2021-December-16 22:28:51
+H7396-Successfully withdrawn 10 at 2021-December-16 22:29:03
+H7396-Successfully withdrawn 1 at 2021-December-16 22:31:48
+H7396-Successfully deposited 1000 at 2021-December-16 22:32:07
+H7396-Successfully withdrawn 100 at 2021-December-16 22:32:13
